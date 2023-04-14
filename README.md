@@ -8,11 +8,6 @@
 - [Pillow](https://pypi.org/project/Pillow/)
 - [opencv-python](https://pypi.org/project/opencv-python/)
 
-## What I used?
-1. [pycrypto](https://docs.python.org/3/library/crypto.html) - for Cryptography based encryption - It is used to encrypt and decrypt data into secured unreadable form. 
-2. [opencv2](https://opencv.org/) - for Steganography - It is used for image and video manipulation. We used it for embedding encrypted data into images/videos.
-3. [rsa](https://stuvel.eu/python-rsa-doc/usage.html) - for RSA based encryption - RSA is a asymmetric encryption method, used for encrypting data.
-
 
 ## How to run the program?
 1. **Download this GitHub repository**
@@ -33,8 +28,7 @@
 	```
 	python main.py
 	```
-	*Expected Interface:*
-	<br><img src="lib/images/main_screen.png?raw=true">
+	
 4. **Enter your Spam**
    - Generate Result.
 
